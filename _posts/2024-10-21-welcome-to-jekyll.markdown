@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Satvik Naren!"
 date:   2024-10-21 10:39:02 +0530
 categories: jekyll update
 ---
